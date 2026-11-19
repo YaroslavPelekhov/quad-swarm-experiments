@@ -1,0 +1,17 @@
+runs/quads100-100m-w16/checkpoint_p0/checkpoint_000078129_100005120.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000132032_169000960.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000186569_238808320.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000240869_308312320.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000295106_377735680.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000349389_447217920.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000403729_516773120.pth
+runs/quads100-1b-w16/checkpoint_p0/best_000437948_560573440_reward_-2.766.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000458157_586440960.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000512621_656154880.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000566983_725738240.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000621349_795326720.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000675809_865035520.pth
+runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000730235_934700800.pth
+runs/quads100-1b-w16/checkpoint_p0/checkpoint_000780080_998502400.pth
+runs/quads100-1b-w16/checkpoint_p0/checkpoint_000781253_1000003840.pth
+runs/quads100-1b-w16/checkpoint_p0/checkpoint_000781254_1000005120.pth

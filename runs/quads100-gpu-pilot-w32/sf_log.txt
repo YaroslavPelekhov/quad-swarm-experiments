@@ -1,0 +1,693 @@
+[2026-11-18 10:29:14,064][02643] Saving configuration to /workspace/quad-swarm-runs/quads100-gpu-pilot-w32/config.json...
+[2026-11-18 10:29:14,430][02643] Rollout worker 0 uses device cpu
+[2026-11-18 10:29:14,430][02643] Rollout worker 1 uses device cpu
+[2026-11-18 10:29:14,431][02643] Rollout worker 2 uses device cpu
+[2026-11-18 10:29:14,431][02643] Rollout worker 3 uses device cpu
+[2026-11-18 10:29:14,431][02643] Rollout worker 4 uses device cpu
+[2026-11-18 10:29:14,431][02643] Rollout worker 5 uses device cpu
+[2026-11-18 10:29:14,432][02643] Rollout worker 6 uses device cpu
+[2026-11-18 10:29:14,432][02643] Rollout worker 7 uses device cpu
+[2026-11-18 10:29:14,432][02643] Rollout worker 8 uses device cpu
+[2026-11-18 10:29:14,432][02643] Rollout worker 9 uses device cpu
+[2026-11-18 10:29:14,433][02643] Rollout worker 10 uses device cpu
+[2026-11-18 10:29:14,433][02643] Rollout worker 11 uses device cpu
+[2026-11-18 10:29:14,433][02643] Rollout worker 12 uses device cpu
+[2026-11-18 10:29:14,433][02643] Rollout worker 13 uses device cpu
+[2026-11-18 10:29:14,433][02643] Rollout worker 14 uses device cpu
+[2026-11-18 10:29:14,434][02643] Rollout worker 15 uses device cpu
+[2026-11-18 10:29:14,434][02643] Rollout worker 16 uses device cpu
+[2026-11-18 10:29:14,434][02643] Rollout worker 17 uses device cpu
+[2026-11-18 10:29:14,434][02643] Rollout worker 18 uses device cpu
+[2026-11-18 10:29:14,435][02643] Rollout worker 19 uses device cpu
+[2026-11-18 10:29:14,435][02643] Rollout worker 20 uses device cpu
+[2026-11-18 10:29:14,435][02643] Rollout worker 21 uses device cpu
+[2026-11-18 10:29:14,435][02643] Rollout worker 22 uses device cpu
+[2026-11-18 10:29:14,435][02643] Rollout worker 23 uses device cpu
+[2026-11-18 10:29:14,436][02643] Rollout worker 24 uses device cpu
+[2026-11-18 10:29:14,436][02643] Rollout worker 25 uses device cpu
+[2026-11-18 10:29:14,436][02643] Rollout worker 26 uses device cpu
+[2026-11-18 10:29:14,436][02643] Rollout worker 27 uses device cpu
+[2026-11-18 10:29:14,437][02643] Rollout worker 28 uses device cpu
+[2026-11-18 10:29:14,437][02643] Rollout worker 29 uses device cpu
+[2026-11-18 10:29:14,437][02643] Rollout worker 30 uses device cpu
+[2026-11-18 10:29:14,437][02643] Rollout worker 31 uses device cpu
+[2026-11-18 10:29:15,053][02643] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2026-11-18 10:29:15,054][02643] InferenceWorker_p0-w0: min num requests: 10
+[2026-11-18 10:29:15,182][02643] Starting all processes...
+[2026-11-18 10:29:15,183][02643] Starting process learner_proc0
+[2026-11-18 10:29:15,188][02643] Starting all processes...
+[2026-11-18 10:29:15,195][02643] Starting process inference_proc0-0
+[2026-11-18 10:29:15,195][02643] Starting process rollout_proc0
+[2026-11-18 10:29:15,195][02643] Starting process rollout_proc1
+[2026-11-18 10:29:15,197][02643] Starting process rollout_proc2
+[2026-11-18 10:29:15,198][02643] Starting process rollout_proc3
+[2026-11-18 10:29:15,200][02643] Starting process rollout_proc4
+[2026-11-18 10:29:15,201][02643] Starting process rollout_proc5
+[2026-11-18 10:29:15,202][02643] Starting process rollout_proc6
+[2026-11-18 10:29:15,203][02643] Starting process rollout_proc7
+[2026-11-18 10:29:15,204][02643] Starting process rollout_proc8
+[2026-11-18 10:29:15,204][02643] Starting process rollout_proc9
+[2026-11-18 10:29:15,204][02643] Starting process rollout_proc10
+[2026-11-18 10:29:15,206][02643] Starting process rollout_proc11
+[2026-11-18 10:29:15,206][02643] Starting process rollout_proc12
+[2026-11-18 10:29:15,209][02643] Starting process rollout_proc13
+[2026-11-18 10:29:15,209][02643] Starting process rollout_proc14
+[2026-11-18 10:29:15,209][02643] Starting process rollout_proc15
+[2026-11-18 10:29:15,209][02643] Starting process rollout_proc16
+[2026-11-18 10:29:15,209][02643] Starting process rollout_proc17
+[2026-11-18 10:29:15,210][02643] Starting process rollout_proc18
+[2026-11-18 10:29:15,231][02643] Starting process rollout_proc19
+[2026-11-18 10:29:15,234][02643] Starting process rollout_proc20
+[2026-11-18 10:29:15,237][02643] Starting process rollout_proc21
+[2026-11-18 10:29:15,238][02643] Starting process rollout_proc22
+[2026-11-18 10:29:15,245][02643] Starting process rollout_proc23
+[2026-11-18 10:29:15,247][02643] Starting process rollout_proc24
+[2026-11-18 10:29:15,247][02643] Starting process rollout_proc25
+[2026-11-18 10:29:15,248][02643] Starting process rollout_proc26
+[2026-11-18 10:29:15,248][02643] Starting process rollout_proc27
+[2026-11-18 10:29:15,249][02643] Starting process rollout_proc28
+[2026-11-18 10:29:15,250][02643] Starting process rollout_proc29
+[2026-11-18 10:29:15,250][02643] Starting process rollout_proc30
+[2026-11-18 10:29:15,250][02643] Starting process rollout_proc31
+[2026-11-18 10:29:19,333][02674] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,339][02685] Worker 7 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,576][02687] Worker 12 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,656][02680] Worker 11 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,721][02699] Worker 27 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,777][02683] Worker 5 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,786][02694] Worker 19 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,814][02679] Worker 4 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,814][02688] Worker 13 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,840][02700] Worker 23 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:19,938][02675] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2026-11-18 10:29:19,938][02675] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2026-11-18 10:29:19,967][02675] Num visible devices: 1
+[2026-11-18 10:29:19,980][02691] Worker 14 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,023][02676] Worker 1 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,086][02677] Worker 3 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,116][02686] Worker 16 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,146][02692] Worker 15 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,158][02678] Worker 2 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,159][02705] Worker 29 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,161][02654] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2026-11-18 10:29:20,161][02654] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for learning process 0
+[2026-11-18 10:29:20,182][02706] Worker 30 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,195][02681] Worker 9 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,200][02654] Num visible devices: 1
+[2026-11-18 10:29:20,201][02684] Worker 10 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,217][02654] WARNING! It is generally recommended to enable Fixed KL loss (https://arxiv.org/pdf/1707.06347.pdf) for continuous action tasks to avoid potential numerical issues. I.e. set --kl_loss_coeff=0.1
+[2026-11-18 10:29:20,217][02654] Setting fixed seed 0
+[2026-11-18 10:29:20,219][02654] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2026-11-18 10:29:20,219][02654] Initializing actor-critic model on device cuda:0
+[2026-11-18 10:29:20,223][02695] Worker 24 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,224][02682] Worker 8 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,249][02696] Worker 22 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,250][02693] Worker 18 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,251][02702] Worker 28 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,254][02703] Worker 26 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,254][02701] Worker 25 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,255][02704] Worker 31 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,261][02697] Worker 20 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,263][02690] Worker 6 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,270][02698] Worker 21 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,276][02689] Worker 17 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+[2026-11-18 10:29:20,312][02654] Created Actor Critic model with architecture:
+[2026-11-18 10:29:20,313][02654] ActorCriticSeparateWeights(
+  (obs_normalizer): ObservationNormalizer()
+  (actor_encoder): QuadMultiHeadAttentionEncoder(
+    (self_embed_layer): Sequential(
+      (0): Linear(in_features=19, out_features=256, bias=True)
+      (1): Tanh()
+      (2): Linear(in_features=256, out_features=256, bias=True)
+      (3): Tanh()
+    )
+    (neighbor_embed_layer): Sequential(
+      (0): Linear(in_features=12, out_features=256, bias=True)
+      (1): Tanh()
+      (2): Linear(in_features=256, out_features=256, bias=True)
+      (3): Tanh()
+    )
+    (obstacle_embed_layer): Sequential(
+      (0): Linear(in_features=9, out_features=256, bias=True)
+      (1): Tanh()
+      (2): Linear(in_features=256, out_features=256, bias=True)
+      (3): Tanh()
+    )
+    (attention_layer): MultiHeadAttention(
+      (w_qs): Linear(in_features=256, out_features=1024, bias=False)
+      (w_ks): Linear(in_features=256, out_features=1024, bias=False)
+      (w_vs): Linear(in_features=256, out_features=1024, bias=False)
+      (attention): ScaledDotProductAttention()
+      (fc): Linear(in_features=1024, out_features=256, bias=False)
+      (layer_norm): LayerNorm((256,), eps=1e-06, elementwise_affine=True)
+    )
+    (feed_forward): Sequential(
+      (0): Linear(in_features=768, out_features=512, bias=True)
+      (1): Tanh()
+    )
+  )
+  (actor_core): ModelCoreIdentity()
+  (critic_encoder): QuadMultiHeadAttentionEncoder(
+    (self_embed_layer): Sequential(
+      (0): Linear(in_features=19, out_features=256, bias=True)
+      (1): Tanh()
+      (2): Linear(in_features=256, out_features=256, bias=True)
+      (3): Tanh()
+    )
+    (neighbor_embed_layer): Sequential(
+      (0): Linear(in_features=12, out_features=256, bias=True)
+      (1): Tanh()
+      (2): Linear(in_features=256, out_features=256, bias=True)
+      (3): Tanh()
+    )
+    (obstacle_embed_layer): Sequential(
+      (0): Linear(in_features=9, out_features=256, bias=True)
+      (1): Tanh()
+      (2): Linear(in_features=256, out_features=256, bias=True)
+      (3): Tanh()
+    )
+    (attention_layer): MultiHeadAttention(
+      (w_qs): Linear(in_features=256, out_features=1024, bias=False)
+      (w_ks): Linear(in_features=256, out_features=1024, bias=False)
+      (w_vs): Linear(in_features=256, out_features=1024, bias=False)
+      (attention): ScaledDotProductAttention()
+      (fc): Linear(in_features=1024, out_features=256, bias=False)
+      (layer_norm): LayerNorm((256,), eps=1e-06, elementwise_affine=True)
+    )
+    (feed_forward): Sequential(
+      (0): Linear(in_features=768, out_features=512, bias=True)
+      (1): Tanh()
+    )
+  )
+  (critic_core): ModelCoreIdentity()
+  (actor_decoder): MlpDecoder(
+    (mlp): Identity()
+  )
+  (critic_decoder): MlpDecoder(
+    (mlp): Identity()
+  )
+  (critic_linear): Linear(in_features=512, out_features=1, bias=True)
+  (action_parameterization): ActionParameterizationContinuousNonAdaptiveStddev(
+    (distribution_linear): Linear(in_features=512, out_features=4, bias=True)
+  )
+)
+[2026-11-18 10:29:20,596][02654] Using optimizer <class 'torch.optim.adam.Adam'>
+[2026-11-18 10:29:21,630][02654] No checkpoints found
+[2026-11-18 10:29:21,630][02654] Did not load from checkpoint, starting from scratch!
+[2026-11-18 10:29:21,631][02654] Initialized policy 0 weights for model version 0
+[2026-11-18 10:29:21,634][02654] LearnerWorker_p0 finished initialization!
+[2026-11-18 10:29:21,634][02654] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2026-11-18 10:29:21,883][02643] Inference worker 0-0 is ready!
+[2026-11-18 10:29:21,884][02643] All inference workers are ready! Signal rollout workers to start!
+[2026-11-18 10:29:21,885][02682] EnvRunner 8-0 uses policy 0
+[2026-11-18 10:29:21,885][02688] EnvRunner 13-0 uses policy 0
+[2026-11-18 10:29:21,885][02680] EnvRunner 11-0 uses policy 0
+[2026-11-18 10:29:21,885][02674] EnvRunner 0-0 uses policy 0
+[2026-11-18 10:29:21,885][02697] EnvRunner 20-0 uses policy 0
+[2026-11-18 10:29:21,885][02690] EnvRunner 6-0 uses policy 0
+[2026-11-18 10:29:21,885][02693] EnvRunner 18-0 uses policy 0
+[2026-11-18 10:29:21,885][02679] EnvRunner 4-0 uses policy 0
+[2026-11-18 10:29:21,885][02701] EnvRunner 25-0 uses policy 0
+[2026-11-18 10:29:21,885][02695] EnvRunner 24-0 uses policy 0
+[2026-11-18 10:29:21,885][02696] EnvRunner 22-0 uses policy 0
+[2026-11-18 10:29:21,885][02676] EnvRunner 1-0 uses policy 0
+[2026-11-18 10:29:21,885][02686] EnvRunner 16-0 uses policy 0
+[2026-11-18 10:29:21,885][02692] EnvRunner 15-0 uses policy 0
+[2026-11-18 10:29:21,885][02699] EnvRunner 27-0 uses policy 0
+[2026-11-18 10:29:21,885][02705] EnvRunner 29-0 uses policy 0
+[2026-11-18 10:29:21,886][02691] EnvRunner 14-0 uses policy 0
+[2026-11-18 10:29:21,885][02684] EnvRunner 10-0 uses policy 0
+[2026-11-18 10:29:21,885][02677] EnvRunner 3-0 uses policy 0
+[2026-11-18 10:29:21,885][02704] EnvRunner 31-0 uses policy 0
+[2026-11-18 10:29:21,885][02689] EnvRunner 17-0 uses policy 0
+[2026-11-18 10:29:21,886][02703] EnvRunner 26-0 uses policy 0
+[2026-11-18 10:29:21,886][02694] EnvRunner 19-0 uses policy 0
+[2026-11-18 10:29:21,886][02687] EnvRunner 12-0 uses policy 0
+[2026-11-18 10:29:21,886][02683] EnvRunner 5-0 uses policy 0
+[2026-11-18 10:29:21,886][02702] EnvRunner 28-0 uses policy 0
+[2026-11-18 10:29:21,886][02698] EnvRunner 21-0 uses policy 0
+[2026-11-18 10:29:21,886][02685] EnvRunner 7-0 uses policy 0
+[2026-11-18 10:29:21,886][02681] EnvRunner 9-0 uses policy 0
+[2026-11-18 10:29:21,886][02678] EnvRunner 2-0 uses policy 0
+[2026-11-18 10:29:21,886][02706] EnvRunner 30-0 uses policy 0
+[2026-11-18 10:29:21,886][02700] EnvRunner 23-0 uses policy 0
+[2026-11-18 10:29:22,577][02643] Fps is (10 sec: nan, 60 sec: nan, 300 sec: nan). Total num frames: 0. Throughput: 0: nan. Samples: 0. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:27,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 0.0. Samples: 0. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:28,592][02695] EnvRunner 24-1 uses policy 0
+[2026-11-18 10:29:28,760][02704] EnvRunner 31-1 uses policy 0
+[2026-11-18 10:29:29,216][02703] EnvRunner 26-1 uses policy 0
+[2026-11-18 10:29:30,836][02706] EnvRunner 30-1 uses policy 0
+[2026-11-18 10:29:31,123][02685] EnvRunner 7-1 uses policy 0
+[2026-11-18 10:29:31,243][02701] EnvRunner 25-1 uses policy 0
+[2026-11-18 10:29:32,069][02697] EnvRunner 20-1 uses policy 0
+[2026-11-18 10:29:32,109][02690] EnvRunner 6-1 uses policy 0
+[2026-11-18 10:29:32,133][02679] EnvRunner 4-1 uses policy 0
+[2026-11-18 10:29:32,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 60.0. Samples: 600. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:32,694][02688] EnvRunner 13-1 uses policy 0
+[2026-11-18 10:29:33,090][02699] EnvRunner 27-1 uses policy 0
+[2026-11-18 10:29:33,195][02678] EnvRunner 2-1 uses policy 0
+[2026-11-18 10:29:33,216][02686] EnvRunner 16-1 uses policy 0
+[2026-11-18 10:29:33,216][02705] EnvRunner 29-1 uses policy 0
+[2026-11-18 10:29:33,279][02689] EnvRunner 17-1 uses policy 0
+[2026-11-18 10:29:33,280][02693] EnvRunner 18-1 uses policy 0
+[2026-11-18 10:29:33,292][02700] EnvRunner 23-1 uses policy 0
+[2026-11-18 10:29:33,296][02680] EnvRunner 11-1 uses policy 0
+[2026-11-18 10:29:33,332][02683] EnvRunner 5-1 uses policy 0
+[2026-11-18 10:29:33,334][02696] EnvRunner 22-1 uses policy 0
+[2026-11-18 10:29:33,346][02698] EnvRunner 21-1 uses policy 0
+[2026-11-18 10:29:33,365][02677] EnvRunner 3-1 uses policy 0
+[2026-11-18 10:29:33,368][02691] EnvRunner 14-1 uses policy 0
+[2026-11-18 10:29:33,372][02682] EnvRunner 8-1 uses policy 0
+[2026-11-18 10:29:33,375][02684] EnvRunner 10-1 uses policy 0
+[2026-11-18 10:29:33,396][02702] EnvRunner 28-1 uses policy 0
+[2026-11-18 10:29:33,403][02687] EnvRunner 12-1 uses policy 0
+[2026-11-18 10:29:33,405][02694] EnvRunner 19-1 uses policy 0
+[2026-11-18 10:29:33,418][02674] EnvRunner 0-1 uses policy 0
+[2026-11-18 10:29:33,419][02676] EnvRunner 1-1 uses policy 0
+[2026-11-18 10:29:33,424][02681] EnvRunner 9-1 uses policy 0
+[2026-11-18 10:29:33,434][02692] EnvRunner 15-1 uses policy 0
+[2026-11-18 10:29:35,044][02643] Heartbeat connected on Batcher_0
+[2026-11-18 10:29:35,048][02643] Heartbeat connected on LearnerWorker_p0
+[2026-11-18 10:29:35,082][02643] Heartbeat connected on InferenceWorker_p0-w0
+[2026-11-18 10:29:37,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 426.7. Samples: 6400. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:42,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 320.0. Samples: 6400. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:47,358][02643] Heartbeat connected on RolloutWorker_w24
+[2026-11-18 10:29:47,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 256.0. Samples: 6400. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:49,755][02643] Heartbeat connected on RolloutWorker_w5
+[2026-11-18 10:29:50,258][02643] Heartbeat connected on RolloutWorker_w29
+[2026-11-18 10:29:51,423][02643] Heartbeat connected on RolloutWorker_w19
+[2026-11-18 10:29:52,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 510.0. Samples: 15300. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:54,496][02643] Heartbeat connected on RolloutWorker_w30
+[2026-11-18 10:29:54,925][02643] Heartbeat connected on RolloutWorker_w31
+[2026-11-18 10:29:54,948][02643] Heartbeat connected on RolloutWorker_w26
+[2026-11-18 10:29:55,201][02643] Heartbeat connected on RolloutWorker_w11
+[2026-11-18 10:29:56,131][02643] Heartbeat connected on RolloutWorker_w25
+[2026-11-18 10:29:56,493][02643] Heartbeat connected on RolloutWorker_w4
+[2026-11-18 10:29:56,993][02643] Heartbeat connected on RolloutWorker_w21
+[2026-11-18 10:29:57,033][02643] Heartbeat connected on RolloutWorker_w15
+[2026-11-18 10:29:57,536][02643] Heartbeat connected on RolloutWorker_w7
+[2026-11-18 10:29:57,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 760.0. Samples: 26600. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:29:57,655][02643] Heartbeat connected on RolloutWorker_w13
+[2026-11-18 10:29:58,035][02643] Heartbeat connected on RolloutWorker_w20
+[2026-11-18 10:29:58,466][02643] Heartbeat connected on RolloutWorker_w6
+[2026-11-18 10:29:58,557][02643] Heartbeat connected on RolloutWorker_w0
+[2026-11-18 10:29:58,721][02643] Heartbeat connected on RolloutWorker_w22
+[2026-11-18 10:29:58,807][02643] Heartbeat connected on RolloutWorker_w27
+[2026-11-18 10:29:59,191][02643] Heartbeat connected on RolloutWorker_w12
+[2026-11-18 10:29:59,193][02643] Heartbeat connected on RolloutWorker_w16
+[2026-11-18 10:29:59,418][02643] Heartbeat connected on RolloutWorker_w2
+[2026-11-18 10:29:59,776][02643] Heartbeat connected on RolloutWorker_w1
+[2026-11-18 10:29:59,975][02643] Heartbeat connected on RolloutWorker_w8
+[2026-11-18 10:30:00,205][02643] Heartbeat connected on RolloutWorker_w23
+[2026-11-18 10:30:00,226][02643] Heartbeat connected on RolloutWorker_w14
+[2026-11-18 10:30:00,245][02643] Heartbeat connected on RolloutWorker_w10
+[2026-11-18 10:30:00,322][02643] Heartbeat connected on RolloutWorker_w3
+[2026-11-18 10:30:00,355][02643] Heartbeat connected on RolloutWorker_w17
+[2026-11-18 10:30:00,373][02643] Heartbeat connected on RolloutWorker_w18
+[2026-11-18 10:30:00,390][02643] Heartbeat connected on RolloutWorker_w9
+[2026-11-18 10:30:00,482][02643] Heartbeat connected on RolloutWorker_w28
+[2026-11-18 10:30:02,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 2635.0. Samples: 105400. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:30:07,579][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 5375.4. Samples: 241900. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:30:07,585][02654] Saving /workspace/quad-swarm-runs/quads100-gpu-pilot-w32/checkpoint_p0/checkpoint_000000000_0.pth...
+[2026-11-18 10:30:12,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 6857.8. Samples: 308600. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:30:17,412][02654] Signal inference workers to stop experience collection...
+[2026-11-18 10:30:17,471][02675] InferenceWorker_p0-w0: stopping experience collection
+[2026-11-18 10:30:17,577][02643] Fps is (10 sec: 0.0, 60 sec: 0.0, 300 sec: 0.0). Total num frames: 0. Throughput: 0: 9695.6. Samples: 436900. Policy #0 lag: (min: -1.0, avg: -1.0, max: -1.0)
+[2026-11-18 10:30:18,264][02654] Signal inference workers to resume experience collection...
+[2026-11-18 10:30:18,264][02675] InferenceWorker_p0-w0: resuming experience collection
+[2026-11-18 10:30:18,892][02675] Updated weights for policy 0, policy_version 10 (0.0043)
+[2026-11-18 10:30:22,577][02643] Fps is (10 sec: 2560.0, 60 sec: 426.7, 300 sec: 426.7). Total num frames: 25600. Throughput: 0: 11766.7. Samples: 535900. Policy #0 lag: (min: 0.0, avg: 0.0, max: 0.0)
+[2026-11-18 10:30:24,251][02675] Updated weights for policy 0, policy_version 21 (0.0040)
+[2026-11-18 10:30:24,738][02675] Updated weights for policy 0, policy_version 32 (0.0036)
+[2026-11-18 10:30:27,081][02675] Updated weights for policy 0, policy_version 42 (0.0037)
+[2026-11-18 10:30:27,520][02654] Signal inference workers to stop experience collection... (50 times)
+[2026-11-18 10:30:27,546][02675] Updated weights for policy 0, policy_version 52 (0.0036)
+[2026-11-18 10:30:27,559][02654] Signal inference workers to resume experience collection... (50 times)
+[2026-11-18 10:30:27,577][02643] Fps is (10 sec: 6784.0, 60 sec: 1130.7, 300 sec: 1043.7). Total num frames: 67840. Throughput: 0: 12782.3. Samples: 581600. Policy #0 lag: (min: 0.0, avg: 34.8, max: 40.0)
+[2026-11-18 10:30:27,604][02675] InferenceWorker_p0-w0: stopping experience collection (50 times)
+[2026-11-18 10:30:27,604][02675] InferenceWorker_p0-w0: resuming experience collection (50 times)
+[2026-11-18 10:30:29,373][02675] Updated weights for policy 0, policy_version 62 (0.0037)
+[2026-11-18 10:30:29,807][02675] Updated weights for policy 0, policy_version 72 (0.0036)
+[2026-11-18 10:30:31,309][02675] Updated weights for policy 0, policy_version 82 (0.0036)
+[2026-11-18 10:30:31,912][02675] Updated weights for policy 0, policy_version 96 (0.0047)
+[2026-11-18 10:30:32,238][02654] Signal inference workers to stop experience collection... (100 times)
+[2026-11-18 10:30:32,274][02654] Signal inference workers to resume experience collection... (100 times)
+[2026-11-18 10:30:32,291][02675] InferenceWorker_p0-w0: stopping experience collection (100 times)
+[2026-11-18 10:30:32,334][02675] InferenceWorker_p0-w0: resuming experience collection (100 times)
+[2026-11-18 10:30:32,366][02675] Updated weights for policy 0, policy_version 107 (0.0038)
+[2026-11-18 10:30:32,576][02643] Fps is (10 sec: 11776.1, 60 sec: 2389.3, 300 sec: 2048.0). Total num frames: 143360. Throughput: 0: 15386.7. Samples: 698800. Policy #0 lag: (min: 3.0, avg: 70.9, max: 83.0)
+[2026-11-18 10:30:32,804][02675] Updated weights for policy 0, policy_version 117 (0.0034)
+[2026-11-18 10:30:33,371][02675] Updated weights for policy 0, policy_version 130 (0.0041)
+[2026-11-18 10:30:33,790][02675] Updated weights for policy 0, policy_version 140 (0.0033)
+[2026-11-18 10:30:34,288][02675] Updated weights for policy 0, policy_version 151 (0.0034)
+[2026-11-18 10:30:34,388][02654] Signal inference workers to stop experience collection... (150 times)
+[2026-11-18 10:30:34,428][02654] Signal inference workers to resume experience collection... (150 times)
+[2026-11-18 10:30:34,472][02675] InferenceWorker_p0-w0: stopping experience collection (150 times)
+[2026-11-18 10:30:34,472][02675] InferenceWorker_p0-w0: resuming experience collection (150 times)
+[2026-11-18 10:30:34,738][02675] Updated weights for policy 0, policy_version 162 (0.0036)
+[2026-11-18 10:30:35,234][02675] Updated weights for policy 0, policy_version 173 (0.0035)
+[2026-11-18 10:30:35,799][02675] Updated weights for policy 0, policy_version 185 (0.0037)
+[2026-11-18 10:30:36,363][02675] Updated weights for policy 0, policy_version 198 (0.0039)
+[2026-11-18 10:30:36,599][02654] Signal inference workers to stop experience collection... (200 times)
+[2026-11-18 10:30:36,642][02654] Signal inference workers to resume experience collection... (200 times)
+[2026-11-18 10:30:36,664][02675] InferenceWorker_p0-w0: stopping experience collection (200 times)
+[2026-11-18 10:30:36,689][02675] InferenceWorker_p0-w0: resuming experience collection (200 times)
+[2026-11-18 10:30:36,920][02675] Updated weights for policy 0, policy_version 211 (0.0037)
+[2026-11-18 10:30:37,524][02675] Updated weights for policy 0, policy_version 224 (0.0043)
+[2026-11-18 10:30:37,577][02643] Fps is (10 sec: 22016.0, 60 sec: 4800.0, 300 sec: 3840.0). Total num frames: 288000. Throughput: 0: 18180.0. Samples: 833400. Policy #0 lag: (min: 49.0, avg: 165.9, max: 182.0)
+[2026-11-18 10:30:37,978][02675] Updated weights for policy 0, policy_version 234 (0.0037)
+[2026-11-18 10:30:38,504][02675] Updated weights for policy 0, policy_version 246 (0.0042)
+[2026-11-18 10:30:38,848][02654] Signal inference workers to stop experience collection... (250 times)
+[2026-11-18 10:30:38,850][02675] InferenceWorker_p0-w0: stopping experience collection (250 times)
+[2026-11-18 10:30:38,891][02654] Signal inference workers to resume experience collection... (250 times)
+[2026-11-18 10:30:38,891][02675] InferenceWorker_p0-w0: resuming experience collection (250 times)
+[2026-11-18 10:30:39,067][02675] Updated weights for policy 0, policy_version 259 (0.0036)
+[2026-11-18 10:30:39,674][02675] Updated weights for policy 0, policy_version 273 (0.0040)
+[2026-11-18 10:30:40,169][02675] Updated weights for policy 0, policy_version 284 (0.0042)
+[2026-11-18 10:30:40,718][02675] Updated weights for policy 0, policy_version 296 (0.0045)
+[2026-11-18 10:30:41,038][02654] Signal inference workers to stop experience collection... (300 times)
+[2026-11-18 10:30:41,040][02675] InferenceWorker_p0-w0: stopping experience collection (300 times)
+[2026-11-18 10:30:41,081][02654] Signal inference workers to resume experience collection... (300 times)
+[2026-11-18 10:30:41,082][02675] InferenceWorker_p0-w0: resuming experience collection (300 times)
+[2026-11-18 10:30:41,285][02675] Updated weights for policy 0, policy_version 309 (0.0038)
+[2026-11-18 10:30:41,763][02675] Updated weights for policy 0, policy_version 320 (0.0035)
+[2026-11-18 10:30:42,366][02675] Updated weights for policy 0, policy_version 334 (0.0037)
+[2026-11-18 10:30:42,576][02643] Fps is (10 sec: 29056.0, 60 sec: 7232.0, 300 sec: 5424.0). Total num frames: 433920. Throughput: 0: 19393.4. Samples: 899300. Policy #0 lag: (min: 70.0, avg: 280.1, max: 331.0)
+[2026-11-18 10:30:42,822][02675] Updated weights for policy 0, policy_version 345 (0.0042)
+[2026-11-18 10:30:43,203][02654] Signal inference workers to stop experience collection... (350 times)
+[2026-11-18 10:30:43,241][02654] Signal inference workers to resume experience collection... (350 times)
+[2026-11-18 10:30:43,255][02675] InferenceWorker_p0-w0: stopping experience collection (350 times)
+[2026-11-18 10:30:43,288][02675] InferenceWorker_p0-w0: resuming experience collection (350 times)
+[2026-11-18 10:30:43,319][02675] Updated weights for policy 0, policy_version 356 (0.0040)
+[2026-11-18 10:30:43,786][02675] Updated weights for policy 0, policy_version 367 (0.0035)
+[2026-11-18 10:30:44,249][02675] Updated weights for policy 0, policy_version 378 (0.0037)
+[2026-11-18 10:30:44,727][02675] Updated weights for policy 0, policy_version 389 (0.0039)
+[2026-11-18 10:30:45,166][02675] Updated weights for policy 0, policy_version 399 (0.0037)
+[2026-11-18 10:30:45,362][02654] Signal inference workers to stop experience collection... (400 times)
+[2026-11-18 10:30:45,364][02675] InferenceWorker_p0-w0: stopping experience collection (400 times)
+[2026-11-18 10:30:45,402][02654] Signal inference workers to resume experience collection... (400 times)
+[2026-11-18 10:30:45,403][02675] InferenceWorker_p0-w0: resuming experience collection (400 times)
+[2026-11-18 10:30:45,743][02675] Updated weights for policy 0, policy_version 413 (0.0036)
+[2026-11-18 10:30:46,188][02675] Updated weights for policy 0, policy_version 424 (0.0039)
+[2026-11-18 10:30:46,764][02675] Updated weights for policy 0, policy_version 437 (0.0037)
+[2026-11-18 10:30:47,241][02675] Updated weights for policy 0, policy_version 447 (0.0036)
+[2026-11-18 10:30:47,530][02654] Signal inference workers to stop experience collection... (450 times)
+[2026-11-18 10:30:47,574][02654] Signal inference workers to resume experience collection... (450 times)
+[2026-11-18 10:30:47,577][02643] Fps is (10 sec: 29440.1, 60 sec: 9706.7, 300 sec: 6851.8). Total num frames: 582400. Throughput: 0: 20560.0. Samples: 1030600. Policy #0 lag: (min: 125.0, avg: 368.5, max: 437.0)
+[2026-11-18 10:30:47,580][02675] InferenceWorker_p0-w0: stopping experience collection (450 times)
+[2026-11-18 10:30:47,623][02675] InferenceWorker_p0-w0: resuming experience collection (450 times)
+[2026-11-18 10:30:47,731][02675] Updated weights for policy 0, policy_version 458 (0.0037)
+[2026-11-18 10:30:48,243][02675] Updated weights for policy 0, policy_version 469 (0.0036)
+[2026-11-18 10:30:48,751][02675] Updated weights for policy 0, policy_version 481 (0.0039)
+[2026-11-18 10:30:49,324][02675] Updated weights for policy 0, policy_version 493 (0.0038)
+[2026-11-18 10:30:49,792][02654] Signal inference workers to stop experience collection... (500 times)
+[2026-11-18 10:30:49,794][02675] Updated weights for policy 0, policy_version 504 (0.0049)
+[2026-11-18 10:30:49,840][02675] InferenceWorker_p0-w0: stopping experience collection (500 times)
+[2026-11-18 10:30:49,841][02654] Signal inference workers to resume experience collection... (500 times)
+[2026-11-18 10:30:49,889][02675] InferenceWorker_p0-w0: resuming experience collection (500 times)
+[2026-11-18 10:30:50,304][02675] Updated weights for policy 0, policy_version 515 (0.0039)
+[2026-11-18 10:30:50,778][02675] Updated weights for policy 0, policy_version 525 (0.0038)
+[2026-11-18 10:30:51,240][02675] Updated weights for policy 0, policy_version 535 (0.0038)
+[2026-11-18 10:30:51,753][02675] Updated weights for policy 0, policy_version 547 (0.0036)
+[2026-11-18 10:30:52,038][02654] Signal inference workers to stop experience collection... (550 times)
+[2026-11-18 10:30:52,076][02654] Signal inference workers to resume experience collection... (550 times)
+[2026-11-18 10:30:52,085][02675] InferenceWorker_p0-w0: stopping experience collection (550 times)
+[2026-11-18 10:30:52,085][02675] InferenceWorker_p0-w0: resuming experience collection (550 times)
+[2026-11-18 10:30:52,222][02675] Updated weights for policy 0, policy_version 558 (0.0035)
+[2026-11-18 10:30:52,577][02643] Fps is (10 sec: 29055.9, 60 sec: 12074.7, 300 sec: 8049.8). Total num frames: 724480. Throughput: 0: 20525.4. Samples: 1165500. Policy #0 lag: (min: 236.0, avg: 477.2, max: 541.0)
+[2026-11-18 10:30:52,669][02675] Updated weights for policy 0, policy_version 568 (0.0038)
+[2026-11-18 10:30:53,089][02675] Updated weights for policy 0, policy_version 578 (0.0036)
+[2026-11-18 10:30:53,694][02675] Updated weights for policy 0, policy_version 592 (0.0037)
+[2026-11-18 10:30:54,111][02675] Updated weights for policy 0, policy_version 602 (0.0041)
+[2026-11-18 10:30:54,188][02654] Signal inference workers to stop experience collection... (600 times)
+[2026-11-18 10:30:54,227][02654] Signal inference workers to resume experience collection... (600 times)
+[2026-11-18 10:30:54,231][02675] InferenceWorker_p0-w0: stopping experience collection (600 times)
+[2026-11-18 10:30:54,268][02675] InferenceWorker_p0-w0: resuming experience collection (600 times)
+[2026-11-18 10:30:54,606][02675] Updated weights for policy 0, policy_version 613 (0.0037)
+[2026-11-18 10:30:55,080][02675] Updated weights for policy 0, policy_version 624 (0.0037)
+[2026-11-18 10:30:55,626][02675] Updated weights for policy 0, policy_version 636 (0.0037)
+[2026-11-18 10:30:56,127][02675] Updated weights for policy 0, policy_version 647 (0.0035)
+[2026-11-18 10:30:56,419][02654] Signal inference workers to stop experience collection... (650 times)
+[2026-11-18 10:30:56,458][02654] Signal inference workers to resume experience collection... (650 times)
+[2026-11-18 10:30:56,458][02675] InferenceWorker_p0-w0: stopping experience collection (650 times)
+[2026-11-18 10:30:56,459][02675] InferenceWorker_p0-w0: resuming experience collection (650 times)
+[2026-11-18 10:30:56,601][02675] Updated weights for policy 0, policy_version 658 (0.0038)
+[2026-11-18 10:30:57,149][02675] Updated weights for policy 0, policy_version 670 (0.0037)
+[2026-11-18 10:30:57,577][02643] Fps is (10 sec: 28671.9, 60 sec: 14485.3, 300 sec: 9148.7). Total num frames: 869120. Throughput: 0: 20466.6. Samples: 1229600. Policy #0 lag: (min: 42.0, avg: 428.8, max: 651.0)
+[2026-11-18 10:30:57,606][02675] Updated weights for policy 0, policy_version 680 (0.0037)
+[2026-11-18 10:31:02,577][02643] Fps is (10 sec: 14592.0, 60 sec: 14506.7, 300 sec: 8704.0). Total num frames: 870400. Throughput: 0: 20631.1. Samples: 1365300. Policy #0 lag: (min: 42.0, avg: 428.8, max: 651.0)
+[2026-11-18 10:31:06,420][02675] Updated weights for policy 0, policy_version 692 (0.0038)
+[2026-11-18 10:31:06,909][02675] Updated weights for policy 0, policy_version 703 (0.0036)
+[2026-11-18 10:31:06,967][02654] Signal inference workers to stop experience collection... (700 times)
+[2026-11-18 10:31:06,972][02675] InferenceWorker_p0-w0: stopping experience collection (700 times)
+[2026-11-18 10:31:07,008][02654] Signal inference workers to resume experience collection... (700 times)
+[2026-11-18 10:31:07,008][02675] InferenceWorker_p0-w0: resuming experience collection (700 times)
+[2026-11-18 10:31:07,410][02675] Updated weights for policy 0, policy_version 715 (0.0038)
+[2026-11-18 10:31:07,577][02643] Fps is (10 sec: 4992.0, 60 sec: 15317.8, 300 sec: 8752.8). Total num frames: 919040. Throughput: 0: 21408.9. Samples: 1499300. Policy #0 lag: (min: 0.0, avg: 194.3, max: 498.0)
+[2026-11-18 10:31:07,628][02654] Saving /workspace/quad-swarm-runs/quads100-gpu-pilot-w32/checkpoint_p0/checkpoint_000000720_921600.pth...
+[2026-11-18 10:31:08,075][02675] Updated weights for policy 0, policy_version 725 (0.0037)
+[2026-11-18 10:31:08,583][02675] Updated weights for policy 0, policy_version 736 (0.0038)
+[2026-11-18 10:31:09,060][02675] Updated weights for policy 0, policy_version 747 (0.0042)
+[2026-11-18 10:31:09,448][02654] Signal inference workers to stop experience collection... (750 times)
+[2026-11-18 10:31:09,468][02675] InferenceWorker_p0-w0: stopping experience collection (750 times)
+[2026-11-18 10:31:09,487][02654] Signal inference workers to resume experience collection... (750 times)
+[2026-11-18 10:31:09,488][02675] InferenceWorker_p0-w0: resuming experience collection (750 times)
+[2026-11-18 10:31:09,537][02675] Updated weights for policy 0, policy_version 758 (0.0046)
+[2026-11-18 10:31:09,994][02675] Updated weights for policy 0, policy_version 770 (0.0031)
+[2026-11-18 10:31:10,456][02675] Updated weights for policy 0, policy_version 782 (0.0034)
+[2026-11-18 10:31:10,917][02675] Updated weights for policy 0, policy_version 792 (0.0036)
+[2026-11-18 10:31:11,357][02675] Updated weights for policy 0, policy_version 802 (0.0038)
+[2026-11-18 10:31:11,527][02654] Signal inference workers to stop experience collection... (800 times)
+[2026-11-18 10:31:11,564][02654] Signal inference workers to resume experience collection... (800 times)
+[2026-11-18 10:31:11,579][02675] InferenceWorker_p0-w0: stopping experience collection (800 times)
+[2026-11-18 10:31:11,619][02675] InferenceWorker_p0-w0: resuming experience collection (800 times)
+[2026-11-18 10:31:12,011][02675] Updated weights for policy 0, policy_version 816 (0.0043)
+[2026-11-18 10:31:12,462][02675] Updated weights for policy 0, policy_version 827 (0.0027)
+[2026-11-18 10:31:12,576][02643] Fps is (10 sec: 19200.1, 60 sec: 17706.7, 300 sec: 9658.2). Total num frames: 1062400. Throughput: 0: 21873.4. Samples: 1565900. Policy #0 lag: (min: 23.0, avg: 304.5, max: 698.0)
+[2026-11-18 10:31:12,887][02675] Updated weights for policy 0, policy_version 837 (0.0030)
+[2026-11-18 10:31:13,424][02675] Updated weights for policy 0, policy_version 850 (0.0041)
+[2026-11-18 10:31:13,679][02654] Signal inference workers to stop experience collection... (850 times)
+[2026-11-18 10:31:13,720][02654] Signal inference workers to resume experience collection... (850 times)
+[2026-11-18 10:31:13,740][02675] InferenceWorker_p0-w0: stopping experience collection (850 times)
+[2026-11-18 10:31:13,786][02675] InferenceWorker_p0-w0: resuming experience collection (850 times)
+[2026-11-18 10:31:13,859][02675] Updated weights for policy 0, policy_version 860 (0.0036)
+[2026-11-18 10:31:14,307][02675] Updated weights for policy 0, policy_version 870 (0.0036)
+[2026-11-18 10:31:14,781][02675] Updated weights for policy 0, policy_version 881 (0.0036)
+[2026-11-18 10:31:15,316][02675] Updated weights for policy 0, policy_version 893 (0.0037)
+[2026-11-18 10:31:15,791][02675] Updated weights for policy 0, policy_version 904 (0.0037)
+[2026-11-18 10:31:15,874][02654] Signal inference workers to stop experience collection... (900 times)
+[2026-11-18 10:31:15,909][02654] Signal inference workers to resume experience collection... (900 times)
+[2026-11-18 10:31:15,920][02675] InferenceWorker_p0-w0: stopping experience collection (900 times)
+[2026-11-18 10:31:15,962][02675] InferenceWorker_p0-w0: resuming experience collection (900 times)
+[2026-11-18 10:31:16,281][02675] Updated weights for policy 0, policy_version 915 (0.0037)
+[2026-11-18 10:31:16,764][02675] Updated weights for policy 0, policy_version 926 (0.0040)
+[2026-11-18 10:31:17,364][02675] Updated weights for policy 0, policy_version 940 (0.0037)
+[2026-11-18 10:31:17,576][02643] Fps is (10 sec: 29056.3, 60 sec: 20160.0, 300 sec: 10518.3). Total num frames: 1209600. Throughput: 0: 22188.9. Samples: 1697300. Policy #0 lag: (min: 19.0, avg: 299.3, max: 676.0)
+[2026-11-18 10:31:17,834][02675] Updated weights for policy 0, policy_version 951 (0.0039)
+[2026-11-18 10:31:18,039][02654] Signal inference workers to stop experience collection... (950 times)
+[2026-11-18 10:31:18,079][02654] Signal inference workers to resume experience collection... (950 times)
+[2026-11-18 10:31:18,098][02675] InferenceWorker_p0-w0: stopping experience collection (950 times)
+[2026-11-18 10:31:18,138][02675] InferenceWorker_p0-w0: resuming experience collection (950 times)
+[2026-11-18 10:31:18,338][02675] Updated weights for policy 0, policy_version 962 (0.0036)
+[2026-11-18 10:31:18,878][02675] Updated weights for policy 0, policy_version 975 (0.0040)
+[2026-11-18 10:31:19,421][02675] Updated weights for policy 0, policy_version 987 (0.0038)
+[2026-11-18 10:31:19,881][02675] Updated weights for policy 0, policy_version 998 (0.0037)
+[2026-11-18 10:31:20,216][02654] Signal inference workers to stop experience collection... (1000 times)
+[2026-11-18 10:31:20,259][02654] Signal inference workers to resume experience collection... (1000 times)
+[2026-11-18 10:31:20,270][02675] InferenceWorker_p0-w0: stopping experience collection (1000 times)
+[2026-11-18 10:31:20,311][02675] InferenceWorker_p0-w0: resuming experience collection (1000 times)
+[2026-11-18 10:31:20,429][02675] Updated weights for policy 0, policy_version 1010 (0.0038)
+[2026-11-18 10:31:20,973][02675] Updated weights for policy 0, policy_version 1023 (0.0036)
+[2026-11-18 10:31:21,463][02675] Updated weights for policy 0, policy_version 1034 (0.0042)
+[2026-11-18 10:31:21,978][02675] Updated weights for policy 0, policy_version 1046 (0.0036)
+[2026-11-18 10:31:22,392][02654] Signal inference workers to stop experience collection... (1050 times)
+[2026-11-18 10:31:22,432][02654] Signal inference workers to resume experience collection... (1050 times)
+[2026-11-18 10:31:22,464][02675] Updated weights for policy 0, policy_version 1057 (0.0039)
+[2026-11-18 10:31:22,478][02675] InferenceWorker_p0-w0: stopping experience collection (1050 times)
+[2026-11-18 10:31:22,479][02675] InferenceWorker_p0-w0: resuming experience collection (1050 times)
+[2026-11-18 10:31:22,576][02643] Fps is (10 sec: 29440.0, 60 sec: 22186.7, 300 sec: 11306.7). Total num frames: 1356800. Throughput: 0: 22113.4. Samples: 1828500. Policy #0 lag: (min: 97.0, avg: 384.0, max: 701.0)
+[2026-11-18 10:31:22,926][02675] Updated weights for policy 0, policy_version 1068 (0.0037)
+[2026-11-18 10:31:23,344][02675] Updated weights for policy 0, policy_version 1079 (0.0037)
+[2026-11-18 10:31:23,949][02675] Updated weights for policy 0, policy_version 1092 (0.0038)
+[2026-11-18 10:31:24,409][02675] Updated weights for policy 0, policy_version 1102 (0.0037)
+[2026-11-18 10:31:24,549][02654] Signal inference workers to stop experience collection... (1100 times)
+[2026-11-18 10:31:24,552][02675] InferenceWorker_p0-w0: stopping experience collection (1100 times)
+[2026-11-18 10:31:24,586][02654] Signal inference workers to resume experience collection... (1100 times)
+[2026-11-18 10:31:24,587][02675] InferenceWorker_p0-w0: resuming experience collection (1100 times)
+[2026-11-18 10:31:24,956][02675] Updated weights for policy 0, policy_version 1115 (0.0038)
+[2026-11-18 10:31:25,466][02675] Updated weights for policy 0, policy_version 1127 (0.0037)
+[2026-11-18 10:31:25,905][02675] Updated weights for policy 0, policy_version 1137 (0.0037)
+[2026-11-18 10:31:26,380][02675] Updated weights for policy 0, policy_version 1148 (0.0036)
+[2026-11-18 10:31:26,697][02654] Signal inference workers to stop experience collection... (1150 times)
+[2026-11-18 10:31:26,739][02654] Signal inference workers to resume experience collection... (1150 times)
+[2026-11-18 10:31:26,744][02675] InferenceWorker_p0-w0: stopping experience collection (1150 times)
+[2026-11-18 10:31:26,744][02675] InferenceWorker_p0-w0: resuming experience collection (1150 times)
+[2026-11-18 10:31:26,864][02675] Updated weights for policy 0, policy_version 1159 (0.0038)
+[2026-11-18 10:31:27,283][02675] Updated weights for policy 0, policy_version 1169 (0.0038)
+[2026-11-18 10:31:27,577][02643] Fps is (10 sec: 29568.0, 60 sec: 23957.3, 300 sec: 12042.3). Total num frames: 1505280. Throughput: 0: 22124.4. Samples: 1894900. Policy #0 lag: (min: 119.0, avg: 465.6, max: 810.0)
+[2026-11-18 10:31:27,701][02675] Updated weights for policy 0, policy_version 1179 (0.0037)
+[2026-11-18 10:31:28,125][02675] Updated weights for policy 0, policy_version 1189 (0.0033)
+[2026-11-18 10:31:28,627][02675] Updated weights for policy 0, policy_version 1200 (0.0039)
+[2026-11-18 10:31:28,879][02654] Signal inference workers to stop experience collection... (1200 times)
+[2026-11-18 10:31:28,920][02654] Signal inference workers to resume experience collection... (1200 times)
+[2026-11-18 10:31:28,921][02675] InferenceWorker_p0-w0: stopping experience collection (1200 times)
+[2026-11-18 10:31:28,922][02675] InferenceWorker_p0-w0: resuming experience collection (1200 times)
+[2026-11-18 10:31:29,073][02675] Updated weights for policy 0, policy_version 1210 (0.0037)
+[2026-11-18 10:31:29,533][02675] Updated weights for policy 0, policy_version 1221 (0.0035)
+[2026-11-18 10:31:30,031][02675] Updated weights for policy 0, policy_version 1232 (0.0035)
+[2026-11-18 10:31:30,475][02675] Updated weights for policy 0, policy_version 1242 (0.0035)
+[2026-11-18 10:31:30,964][02675] Updated weights for policy 0, policy_version 1254 (0.0035)
+[2026-11-18 10:31:31,039][02654] Signal inference workers to stop experience collection... (1250 times)
+[2026-11-18 10:31:31,084][02654] Signal inference workers to resume experience collection... (1250 times)
+[2026-11-18 10:31:31,088][02675] InferenceWorker_p0-w0: stopping experience collection (1250 times)
+[2026-11-18 10:31:31,129][02675] InferenceWorker_p0-w0: resuming experience collection (1250 times)
+[2026-11-18 10:31:31,499][02675] Updated weights for policy 0, policy_version 1266 (0.0035)
+[2026-11-18 10:31:31,899][02675] Updated weights for policy 0, policy_version 1276 (0.0037)
+[2026-11-18 10:31:32,580][02643] Fps is (10 sec: 28151.4, 60 sec: 24916.1, 300 sec: 12602.8). Total num frames: 1638400. Throughput: 0: 22178.5. Samples: 2028700. Policy #0 lag: (min: 229.0, avg: 560.7, max: 893.0)
+[2026-11-18 10:31:32,830][02675] Updated weights for policy 0, policy_version 1286 (0.0036)
+[2026-11-18 10:31:33,456][02675] Updated weights for policy 0, policy_version 1300 (0.0038)
+[2026-11-18 10:31:35,931][02654] Signal inference workers to stop experience collection... (1300 times)
+[2026-11-18 10:31:35,972][02654] Signal inference workers to resume experience collection... (1300 times)
+[2026-11-18 10:31:35,997][02675] InferenceWorker_p0-w0: stopping experience collection (1300 times)
+[2026-11-18 10:31:35,998][02675] InferenceWorker_p0-w0: resuming experience collection (1300 times)
+[2026-11-18 10:31:36,119][02675] Updated weights for policy 0, policy_version 1312 (0.0037)
+[2026-11-18 10:31:37,577][02643] Fps is (10 sec: 18431.9, 60 sec: 23360.0, 300 sec: 12515.6). Total num frames: 1689600. Throughput: 0: 22217.8. Samples: 2165300. Policy #0 lag: (min: 0.0, avg: 355.0, max: 676.0)
+[2026-11-18 10:31:40,448][02675] Updated weights for policy 0, policy_version 1326 (0.0039)
+[2026-11-18 10:31:40,891][02675] Updated weights for policy 0, policy_version 1336 (0.0037)
+[2026-11-18 10:31:42,577][02643] Fps is (10 sec: 7682.3, 60 sec: 21354.6, 300 sec: 12251.5). Total num frames: 1715200. Throughput: 0: 22308.9. Samples: 2233500. Policy #0 lag: (min: 0.0, avg: 187.0, max: 483.0)
+[2026-11-18 10:31:44,321][02675] Updated weights for policy 0, policy_version 1346 (0.0038)
+[2026-11-18 10:31:44,893][02654] Signal inference workers to stop experience collection... (1350 times)
+[2026-11-18 10:31:44,939][02654] Signal inference workers to resume experience collection... (1350 times)
+[2026-11-18 10:31:44,946][02675] InferenceWorker_p0-w0: stopping experience collection (1350 times)
+[2026-11-18 10:31:44,978][02675] Updated weights for policy 0, policy_version 1361 (0.0041)
+[2026-11-18 10:31:44,991][02675] InferenceWorker_p0-w0: resuming experience collection (1350 times)
+[2026-11-18 10:31:45,485][02675] Updated weights for policy 0, policy_version 1373 (0.0044)
+[2026-11-18 10:31:45,967][02675] Updated weights for policy 0, policy_version 1384 (0.0042)
+[2026-11-18 10:31:46,507][02675] Updated weights for policy 0, policy_version 1396 (0.0040)
+[2026-11-18 10:31:46,984][02675] Updated weights for policy 0, policy_version 1407 (0.0037)
+[2026-11-18 10:31:47,094][02654] Signal inference workers to stop experience collection... (1400 times)
+[2026-11-18 10:31:47,134][02654] Signal inference workers to resume experience collection... (1400 times)
+[2026-11-18 10:31:47,156][02675] InferenceWorker_p0-w0: stopping experience collection (1400 times)
+[2026-11-18 10:31:47,184][02675] InferenceWorker_p0-w0: resuming experience collection (1400 times)
+[2026-11-18 10:31:47,484][02675] Updated weights for policy 0, policy_version 1419 (0.0038)
+[2026-11-18 10:31:47,577][02643] Fps is (10 sec: 12928.0, 60 sec: 20608.0, 300 sec: 12544.0). Total num frames: 1818880. Throughput: 0: 22253.3. Samples: 2366700. Policy #0 lag: (min: 18.0, avg: 247.7, max: 544.0)
+[2026-11-18 10:31:48,000][02675] Updated weights for policy 0, policy_version 1430 (0.0039)
+[2026-11-18 10:31:48,547][02675] Updated weights for policy 0, policy_version 1443 (0.0047)
+[2026-11-18 10:31:49,053][02675] Updated weights for policy 0, policy_version 1454 (0.0036)
+[2026-11-18 10:31:49,281][02654] Signal inference workers to stop experience collection... (1450 times)
+[2026-11-18 10:31:49,318][02654] Signal inference workers to resume experience collection... (1450 times)
+[2026-11-18 10:31:49,346][02675] InferenceWorker_p0-w0: stopping experience collection (1450 times)
+[2026-11-18 10:31:49,384][02675] InferenceWorker_p0-w0: resuming experience collection (1450 times)
+[2026-11-18 10:31:49,527][02675] Updated weights for policy 0, policy_version 1465 (0.0037)
+[2026-11-18 10:31:49,960][02675] Updated weights for policy 0, policy_version 1475 (0.0035)
+[2026-11-18 10:31:50,368][02675] Updated weights for policy 0, policy_version 1485 (0.0038)
+[2026-11-18 10:31:50,797][02675] Updated weights for policy 0, policy_version 1495 (0.0036)
+[2026-11-18 10:31:51,247][02675] Updated weights for policy 0, policy_version 1505 (0.0039)
+[2026-11-18 10:31:51,431][02654] Signal inference workers to stop experience collection... (1500 times)
+[2026-11-18 10:31:51,469][02675] InferenceWorker_p0-w0: stopping experience collection (1500 times)
+[2026-11-18 10:31:51,469][02654] Signal inference workers to resume experience collection... (1500 times)
+[2026-11-18 10:31:51,513][02675] InferenceWorker_p0-w0: resuming experience collection (1500 times)
+[2026-11-18 10:31:51,655][02675] Updated weights for policy 0, policy_version 1515 (0.0037)
+[2026-11-18 10:31:52,163][02675] Updated weights for policy 0, policy_version 1526 (0.0041)
+[2026-11-18 10:31:52,577][02643] Fps is (10 sec: 25088.0, 60 sec: 20693.3, 300 sec: 13107.2). Total num frames: 1966080. Throughput: 0: 22217.8. Samples: 2499100. Policy #0 lag: (min: 113.0, avg: 384.4, max: 769.0)
+[2026-11-18 10:31:52,688][02675] Updated weights for policy 0, policy_version 1539 (0.0036)
+[2026-11-18 10:31:53,224][02675] Updated weights for policy 0, policy_version 1551 (0.0039)
+[2026-11-18 10:31:53,620][02654] Signal inference workers to stop experience collection... (1550 times)
+[2026-11-18 10:31:53,653][02654] Signal inference workers to resume experience collection... (1550 times)
+[2026-11-18 10:31:53,670][02675] InferenceWorker_p0-w0: stopping experience collection (1550 times)
+[2026-11-18 10:31:53,703][02675] InferenceWorker_p0-w0: resuming experience collection (1550 times)
+[2026-11-18 10:31:53,754][02675] Updated weights for policy 0, policy_version 1563 (0.0044)
+[2026-11-18 10:31:54,284][02675] Updated weights for policy 0, policy_version 1575 (0.0039)
+[2026-11-18 10:31:54,793][02675] Updated weights for policy 0, policy_version 1587 (0.0040)
+[2026-11-18 10:31:55,323][02675] Updated weights for policy 0, policy_version 1599 (0.0037)
+[2026-11-18 10:31:55,819][02654] Signal inference workers to stop experience collection... (1600 times)
+[2026-11-18 10:31:55,860][02654] Signal inference workers to resume experience collection... (1600 times)
+[2026-11-18 10:31:55,890][02675] InferenceWorker_p0-w0: stopping experience collection (1600 times)
+[2026-11-18 10:31:55,923][02675] Updated weights for policy 0, policy_version 1612 (0.0038)
+[2026-11-18 10:31:55,934][02675] InferenceWorker_p0-w0: resuming experience collection (1600 times)
+[2026-11-18 10:31:56,474][02675] Updated weights for policy 0, policy_version 1625 (0.0035)
+[2026-11-18 10:31:57,004][02675] Updated weights for policy 0, policy_version 1637 (0.0036)
+[2026-11-18 10:31:57,559][02675] Updated weights for policy 0, policy_version 1650 (0.0037)
+[2026-11-18 10:31:57,577][02643] Fps is (10 sec: 29312.0, 60 sec: 20714.7, 300 sec: 13625.9). Total num frames: 2112000. Throughput: 0: 22175.5. Samples: 2563800. Policy #0 lag: (min: 152.0, avg: 449.5, max: 846.0)
+[2026-11-18 10:31:57,974][02654] Signal inference workers to stop experience collection... (1650 times)
+[2026-11-18 10:31:58,014][02654] Signal inference workers to resume experience collection... (1650 times)
+[2026-11-18 10:31:58,020][02675] InferenceWorker_p0-w0: stopping experience collection (1650 times)
+[2026-11-18 10:31:58,020][02675] InferenceWorker_p0-w0: resuming experience collection (1650 times)
+[2026-11-18 10:31:58,138][02675] Updated weights for policy 0, policy_version 1663 (0.0039)
+[2026-11-18 10:31:58,316][02643] Keyboard interrupt detected in the event loop EvtLoop [Runner_EvtLoop, process=main process 2643], exiting...
+[2026-11-18 10:31:58,316][02643] Runner profile tree view:
+main_loop: 163.1342
+[2026-11-18 10:31:58,317][02643] Collected {0: 2133760}, FPS: 13079.8
+[2026-11-18 10:31:58,320][02654] Stopping Batcher_0...
+[2026-11-18 10:31:58,321][02654] Loop batcher_evt_loop terminating...
+[2026-11-18 10:31:58,340][02675] Weights refcount: 2 0
+[2026-11-18 10:31:58,344][02675] Stopping InferenceWorker_p0-w0...
+[2026-11-18 10:31:58,345][02675] Loop inference_proc0-0_evt_loop terminating...
+[2026-11-18 10:31:58,369][02703] Stopping RolloutWorker_w26...
+[2026-11-18 10:31:58,369][02703] Loop rollout_proc26_evt_loop terminating...
+[2026-11-18 10:31:58,380][02699] Stopping RolloutWorker_w27...
+[2026-11-18 10:31:58,381][02699] Loop rollout_proc27_evt_loop terminating...
+[2026-11-18 10:31:58,401][02654] Saving /workspace/quad-swarm-runs/quads100-gpu-pilot-w32/checkpoint_p0/checkpoint_000001670_2137600.pth...
+[2026-11-18 10:31:58,409][02701] Stopping RolloutWorker_w25...
+[2026-11-18 10:31:58,409][02701] Loop rollout_proc25_evt_loop terminating...
+[2026-11-18 10:31:58,418][02690] Stopping RolloutWorker_w6...
+[2026-11-18 10:31:58,419][02690] Loop rollout_proc6_evt_loop terminating...
+[2026-11-18 10:31:58,436][02706] Stopping RolloutWorker_w30...
+[2026-11-18 10:31:58,437][02706] Loop rollout_proc30_evt_loop terminating...
+[2026-11-18 10:31:58,440][02698] Stopping RolloutWorker_w21...
+[2026-11-18 10:31:58,440][02698] Loop rollout_proc21_evt_loop terminating...
+[2026-11-18 10:31:58,447][02704] Stopping RolloutWorker_w31...
+[2026-11-18 10:31:58,448][02704] Loop rollout_proc31_evt_loop terminating...
+[2026-11-18 10:31:58,448][02678] Stopping RolloutWorker_w2...
+[2026-11-18 10:31:58,448][02678] Loop rollout_proc2_evt_loop terminating...
+[2026-11-18 10:31:58,452][02680] Stopping RolloutWorker_w11...
+[2026-11-18 10:31:58,453][02680] Loop rollout_proc11_evt_loop terminating...
+[2026-11-18 10:31:58,470][02692] Stopping RolloutWorker_w15...
+[2026-11-18 10:31:58,471][02692] Loop rollout_proc15_evt_loop terminating...
+[2026-11-18 10:31:58,474][02687] Stopping RolloutWorker_w12...
+[2026-11-18 10:31:58,474][02687] Loop rollout_proc12_evt_loop terminating...
+[2026-11-18 10:31:58,477][02694] Stopping RolloutWorker_w19...
+[2026-11-18 10:31:58,477][02694] Loop rollout_proc19_evt_loop terminating...
+[2026-11-18 10:31:58,479][02684] Stopping RolloutWorker_w10...
+[2026-11-18 10:31:58,480][02684] Loop rollout_proc10_evt_loop terminating...
+[2026-11-18 10:31:58,480][02702] Stopping RolloutWorker_w28...
+[2026-11-18 10:31:58,481][02702] Loop rollout_proc28_evt_loop terminating...
+[2026-11-18 10:31:58,484][02654] Removing /workspace/quad-swarm-runs/quads100-gpu-pilot-w32/checkpoint_p0/checkpoint_000000000_0.pth
+[2026-11-18 10:31:58,486][02654] Stopping LearnerWorker_p0...
+[2026-11-18 10:31:58,487][02654] Loop learner_proc0_evt_loop terminating...
+[2026-11-18 10:31:58,498][02677] Stopping RolloutWorker_w3...
+[2026-11-18 10:31:58,499][02677] Loop rollout_proc3_evt_loop terminating...
+[2026-11-18 10:31:58,505][02681] Stopping RolloutWorker_w9...
+[2026-11-18 10:31:58,506][02681] Loop rollout_proc9_evt_loop terminating...
+[2026-11-18 10:31:58,506][02693] Stopping RolloutWorker_w18...
+[2026-11-18 10:31:58,506][02679] Stopping RolloutWorker_w4...
+[2026-11-18 10:31:58,506][02693] Loop rollout_proc18_evt_loop terminating...
+[2026-11-18 10:31:58,507][02679] Loop rollout_proc4_evt_loop terminating...
+[2026-11-18 10:31:58,508][02696] Stopping RolloutWorker_w22...
+[2026-11-18 10:31:58,508][02696] Loop rollout_proc22_evt_loop terminating...
+[2026-11-18 10:31:58,511][02685] Stopping RolloutWorker_w7...
+[2026-11-18 10:31:58,511][02685] Loop rollout_proc7_evt_loop terminating...
+[2026-11-18 10:31:58,512][02683] Stopping RolloutWorker_w5...
+[2026-11-18 10:31:58,513][02683] Loop rollout_proc5_evt_loop terminating...
+[2026-11-18 10:31:58,518][02686] Stopping RolloutWorker_w16...
+[2026-11-18 10:31:58,519][02686] Loop rollout_proc16_evt_loop terminating...
+[2026-11-18 10:31:58,525][02689] Stopping RolloutWorker_w17...
+[2026-11-18 10:31:58,526][02689] Loop rollout_proc17_evt_loop terminating...
+[2026-11-18 10:31:58,526][02695] Stopping RolloutWorker_w24...
+[2026-11-18 10:31:58,527][02695] Loop rollout_proc24_evt_loop terminating...
+[2026-11-18 10:31:58,528][02697] Stopping RolloutWorker_w20...
+[2026-11-18 10:31:58,529][02697] Loop rollout_proc20_evt_loop terminating...
+[2026-11-18 10:31:58,528][02691] Stopping RolloutWorker_w14...
+[2026-11-18 10:31:58,529][02691] Loop rollout_proc14_evt_loop terminating...
+[2026-11-18 10:31:58,529][02682] Stopping RolloutWorker_w8...
+[2026-11-18 10:31:58,530][02682] Loop rollout_proc8_evt_loop terminating...
+[2026-11-18 10:31:58,530][02688] Stopping RolloutWorker_w13...
+[2026-11-18 10:31:58,531][02688] Loop rollout_proc13_evt_loop terminating...
+[2026-11-18 10:31:58,539][02700] Stopping RolloutWorker_w23...
+[2026-11-18 10:31:58,540][02700] Loop rollout_proc23_evt_loop terminating...
+[2026-11-18 10:31:58,546][02674] Stopping RolloutWorker_w0...
+[2026-11-18 10:31:58,548][02674] Loop rollout_proc0_evt_loop terminating...
+[2026-11-18 10:31:58,565][02676] Stopping RolloutWorker_w1...
+[2026-11-18 10:31:58,565][02705] Stopping RolloutWorker_w29...
+[2026-11-18 10:31:58,566][02676] Loop rollout_proc1_evt_loop terminating...
+[2026-11-18 10:31:58,566][02705] Loop rollout_proc29_evt_loop terminating...

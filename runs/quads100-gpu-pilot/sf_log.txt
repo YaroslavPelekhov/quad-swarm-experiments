@@ -1,0 +1,17 @@
+[2026-11-18 10:23:23,024][01720] Saving configuration to /workspace/quad-swarm-runs/quads100-gpu-pilot/config.json...
+[2026-11-18 10:23:23,390][01720] Rollout worker 0 uses device cpu
+[2026-11-18 10:23:23,391][01720] Rollout worker 1 uses device cpu
+[2026-11-18 10:23:23,391][01720] Rollout worker 2 uses device cpu
+[2026-11-18 10:23:23,391][01720] Rollout worker 3 uses device cpu
+[2026-11-18 10:23:23,391][01720] Rollout worker 4 uses device cpu
+[2026-11-18 10:23:23,392][01720] Rollout worker 5 uses device cpu
+[2026-11-18 10:23:23,392][01720] Rollout worker 6 uses device cpu
+[2026-11-18 10:23:23,392][01720] Rollout worker 7 uses device cpu
+[2026-11-18 10:23:23,392][01720] Rollout worker 8 uses device cpu
+[2026-11-18 10:23:23,393][01720] Rollout worker 9 uses device cpu
+[2026-11-18 10:23:23,393][01720] Rollout worker 10 uses device cpu
+[2026-11-18 10:23:23,393][01720] Rollout worker 11 uses device cpu
+[2026-11-18 10:23:23,393][01720] Rollout worker 12 uses device cpu
+[2026-11-18 10:23:23,393][01720] Rollout worker 13 uses device cpu
+[2026-11-18 10:23:23,394][01720] Rollout worker 14 uses device cpu
+[2026-11-18 10:23:23,394][01720] Rollout worker 15 uses device cpu
