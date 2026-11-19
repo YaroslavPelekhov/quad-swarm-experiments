@@ -1,4 +1,0 @@
-checkpoint,trained_steps,agents,condition,seed,scene_id,ticks,fault_start_tick,fault_ticks,agent_success,selected_agent_success,swarm_success,agent_obstacle_collision,agent_neighbor_collision,room_collision_events,mean_episode_reward
-checkpoint_000781254_1000005120.pth,1000005120,24,clean,50000,0c7fdd30c21cccce,1501,,0,1.0,1.0,1,0.0,0.0,0,-4.362104545762857
-checkpoint_000781254_1000005120.pth,1000005120,24,dropout_0p5s,50000,0c7fdd30c21cccce,1501,497,50,1.0,1.0,1,0.0,0.0,0,-4.260089190392879
-checkpoint_000781254_1000005120.pth,1000005120,24,dropout_2s,50000,0c7fdd30c21cccce,1501,497,200,1.0,1.0,1,0.0,0.0,0,-4.167127290498098
