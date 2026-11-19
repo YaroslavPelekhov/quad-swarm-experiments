@@ -44,14 +44,10 @@ python -m swarm_rl.train --env=quadrotor_multi --experiment=quad-swarm \
 
 ## Результаты по чекпоинтам
 
-Предварительные данные по 45 одинаковым сценам с 24 агентами. Прочерк означает, что результаты ещё не готовы. [Сводка по трём режимам](results/summary-interim-45-scenes.csv) · [Данные по эпизодам](results/episodes-interim-45-scenes.csv)
+Предварительные данные по 45 одинаковым сценам с 24 агентами. [Сводка по трём режимам](results/summary-interim-45-scenes.csv) · [Данные по эпизодам](results/episodes-interim-45-scenes.csv)
 
 | Чекпоинт | Шаги | Успех агентов без отказа | Успех роя без отказа | Успех роя при отказе на 2 с |
 |---|---:|---:|---:|---:|
-| [`checkpoint_000055200_70656000.pth`](runs/quads100-100m-w16/checkpoint_p0/milestones/checkpoint_000055200_70656000.pth) | 70 656 000 | — | — | — |
-| [`best_000076337_97711360_reward_-7.019.pth`](runs/quads100-100m-w16/checkpoint_p0/best_000076337_97711360_reward_-7.019.pth) | 97 711 360 | — | — | — |
-| [`checkpoint_000077904_99717120.pth`](runs/quads100-100m-w16/checkpoint_p0/checkpoint_000077904_99717120.pth) | 99 717 120 | — | — | — |
-| [`checkpoint_000078128_100003840.pth`](runs/quads100-100m-w16/checkpoint_p0/checkpoint_000078128_100003840.pth) | 100 003 840 | — | — | — |
 | [`checkpoint_000078129_100005120.pth`](runs/quads100-100m-w16/checkpoint_p0/checkpoint_000078129_100005120.pth) | 100 005 120 | 5,9% | 0,0% | 0,0% |
 | [`checkpoint_000132032_169000960.pth`](runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000132032_169000960.pth) | 169 000 960 | 57,9% | 0,0% | 0,0% |
 | [`checkpoint_000186569_238808320.pth`](runs/quads100-1b-w16/checkpoint_p0/milestones/checkpoint_000186569_238808320.pth) | 238 808 320 | 55,2% | 0,0% | 0,0% |
